@@ -44,37 +44,53 @@ Tkinter is included with most standard Python installations.
 
 ```bash
 git clone https://github.com/papql/CookieCalculator.git
+```
 
 ### 2. Navigate to the project folder
+
 ```bash
 cd CookieCalculator
+```
 
 ### 3. Run the calculator
+
 ```bash
 python biscuit_calculator.py
+```
 
-Note: biscuit_design.png must remain in the same folder as biscuit_calculator.py for the calculator design to load correctly.
+> **Note:** `biscuit_design.png` must remain in the same folder as `biscuit_calculator.py` for the calculator design to load correctly.
 
-### 📁 File Structure
+---
+
+## 📁 File Structure
+
+```text
 CookieCalculator/
 ├── biscuit_calculator.py    # Main calculator program
 ├── biscuit_design.png       # Biscuit calculator artwork
 └── README.md                # Project documentation
+```
 
-### ⌨️ Keyboard Shortcuts
+---
+
+## ⌨️ Keyboard Shortcuts
+
 The calculator can also be controlled using the keyboard:
 
-Key	Actions
-- 0-9	Enter numbers
-- + - * /	Arithmetic operations
-- .	Decimal point
-- ( )	Parentheses
-- Enter	Calculate
-- Backspace	Delete the last character
-- Escape	Clear calculator
-- ← →	Scroll through long expressions
+| Key | Action |
+|---|---|
+| `0-9` | Enter numbers |
+| `+` `-` `*` `/` | Arithmetic operations |
+| `.` | Decimal point |
+| `(` `)` | Parentheses |
+| `Enter` | Calculate |
+| `Backspace` | Delete the last character |
+| `Escape` | Clear calculator |
+| `←` `→` | Scroll through long expressions |
 
-💡 About the Project
+---
+
+## 💡 About the Project
 
 I originally made this calculator in Grade 11 as a small programming project. I recently started learning more about GitHub and decided to clean it up and share it here.
 
@@ -82,14 +98,45 @@ The original goal was simple: make a functional calculator, but I was craving co
 
 🍪 Why make a normal calculator when you can make a biscuit calculator?
 
-### 🦭 Issues & Feedback
+---
+
+## 📝 What I Learned
+
+Through this project, I worked with:
+
+- Building a desktop GUI with Tkinter
+- Handling button clicks and keyboard input
+- Managing user input and calculator state
+- Parsing mathematical expressions
+- Handling invalid input and mathematical errors
+- Working with external image assets
+- Organizing a Python project for GitHub
+
+---
+
+## 🔮 Future Improvements
+
+Some possible future improvements include:
+
+- Calculation history
+- More mathematical operations
+- A light/dark theme
+- Additional biscuit-themed designs 🍪
+
+---
+
+## 🐞 Issues & Feedback
 
 If you find a bug or have an idea for a feature, feel free to open an issue!
 
-### 📄 License
+---
+
+## 📄 License
 
 This project is open source.
 
 Feel free to use, modify, and learn from the code.
 
-Enjoy using Cookie Calculator! 🍪
+---
+
+**Enjoy using Cookie Calculator! 🍪**
