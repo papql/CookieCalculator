@@ -100,31 +100,6 @@ The original goal was simple: make a functional calculator, but I was craving co
 
 ---
 
-## 📝 What I Learned
-
-Through this project, I worked with:
-
-- Building a desktop GUI with Tkinter
-- Handling button clicks and keyboard input
-- Managing user input and calculator state
-- Parsing mathematical expressions
-- Handling invalid input and mathematical errors
-- Working with external image assets
-- Organizing a Python project for GitHub
-
----
-
-## 🔮 Future Improvements
-
-Some possible future improvements include:
-
-- Calculation history
-- More mathematical operations
-- A light/dark theme
-- Additional biscuit-themed designs 🍪
-
----
-
 ## 🐞 Issues & Feedback
 
 If you find a bug or have an idea for a feature, feel free to open an issue!
