@@ -94,9 +94,7 @@ The calculator can also be controlled using the keyboard:
 
 I originally made this calculator in Grade 11 as a small programming project. I recently started learning more about GitHub and decided to clean it up and share it here.
 
-The original goal was simple: make a functional calculator, but I was craving cookies and wanted to give it a more fun and creative design instead of making another standard calculator interface.
-
-🍪 Why make a normal calculator when you can make a biscuit calculator?
+The original goal was simple: make a functional calculator, but I was craving cookies and wanted to give it a more fun design.
 
 ---
 
